@@ -1,0 +1,14 @@
+package com.library.app.category.repository;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class CategoryRepositoryUTestTest {
+
+	@Test
+	public void testAddCategoryAndFindIt() {
+		fail("Not yet implemented");
+	}
+
+}

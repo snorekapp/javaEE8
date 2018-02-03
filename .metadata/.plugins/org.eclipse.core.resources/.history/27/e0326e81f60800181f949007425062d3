@@ -1,0 +1,5 @@
+package com.library.app.category.model;
+
+public class Category {
+
+}
