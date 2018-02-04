@@ -1,4 +1,3 @@
 INDEX VERSION 1.130+S:\EclipseWorspace\UdemyAppFromScratch\.metadata\.plugins\org.eclipse.jdt.core
 4068597776.index
 1498503466.index
-1911253449.index
