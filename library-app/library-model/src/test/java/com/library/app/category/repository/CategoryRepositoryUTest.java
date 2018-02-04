@@ -42,18 +42,7 @@ public class CategoryRepositoryUTest {
 
 	@Test
 	public void addCategoryAndFindIt() {
-		// final Long categoryAddedId =
-		// dbCommandTransactionalExecutor.executeCommand(new DBCommand<Long>() {
-		//
-		// @Override
-		// public Long execute() {
-		// return categoryRepository.add(java()).getId();
-		// }
-		//
-		// });
-
 		final Long categoryAddedId = dBCommandTransactionalExecutor.executeCommand(() -> {
-
 			return categoryRepository.add(java()).getId();
 		});
 
